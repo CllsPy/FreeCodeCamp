@@ -1,4 +1,4 @@
-# FreeCodeCamp Platform README
+# About FreeCodeCamp Platform 
 
 ## Introduction
 
