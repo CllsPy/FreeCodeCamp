@@ -94,10 +94,6 @@ FreeCodeCamp is an open-source project, and it encourages contributions from dev
 
 To learn more about contributing, visit the [FreeCodeCamp GitHub repository](https://github.com/freeCodeCamp/freeCodeCamp).
 
-## License
-
-FreeCodeCamp is licensed under the [MIT License](https://opensource.org/licenses/MIT).
-
 ---
 
 ### Conclusion
