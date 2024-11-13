@@ -1,23 +1,39 @@
-Linear Regression Health Costs Calculator
-You will be working on this project with Google Colaboratory.
+# Linear Regression Health Costs Calculator
 
-After going to that link, create a copy of the notebook either in your own account or locally. Once you complete the project and it passes the test (included at that link), submit your project link below. If you are submitting a Google Colaboratory link, make sure to turn on link sharing for "anyone with the link."
+In this project, you will build a machine learning model to predict healthcare costs using **linear regression**. You will be working on this project using **Google Colaboratory**.
 
-We are still developing the interactive instructional content for the machine learning curriculum. For now, you can go through the video challenges in this certification. You may also have to seek out additional learning resources, similar to what you would do when working on a real-world project.
+## Steps to Complete the Project
 
-In this challenge, you will predict healthcare costs using a regression algorithm.
+1. **Create a copy of the notebook**:
+   - Go to the provided Google Colaboratory link.
+   - Create a copy of the notebook either in your own Google account or locally.
 
-You are given a dataset that contains information about different people including their healthcare costs. Use the data to predict healthcare costs based on new data.
+2. **Data Preparation**:
+   - The first two cells of the notebook will import the necessary libraries and the dataset.
+   - Make sure to **convert categorical data to numbers** where required.
+   - Split the data into **train_dataset** (80%) and **test_dataset** (20%).
 
-The first two cells of this notebook import libraries and the data.
+3. **Label Creation**:
+   - Remove the `expenses` column from both datasets and create new datasets called `train_labels` and `test_labels`.
+   - These new labels will be used when training the model.
 
-Make sure to convert categorical data to numbers. Use 80% of the data as the train_dataset and 20% of the data as the test_dataset.
+4. **Model Training**:
+   - Create a regression model and train it using the `train_dataset`.
+   - Once your model is trained, run the final cell to evaluate its performance on the `test_dataset`.
 
-pop off the "expenses" column from these datasets to create new datasets called train_labels and test_labels. Use these labels when training your model.
+5. **Evaluation**:
+   - To pass the challenge, the model must return a **Mean Absolute Error (MAE)** of under **3500**. This means the model should predict healthcare costs with an error of less than $3500.
 
-Create a model and train it with the train_dataset. Run the final cell in this notebook to check your model. The final cell will use the unseen test_dataset to check how well the model generalizes.
+6. **Final Prediction**:
+   - The final cell will also predict healthcare expenses using the `test_dataset` and generate a graph to visualize the results.
 
-To pass the challenge, model.evaluate must return a Mean Absolute Error of under 3500. This means it predicts health care costs correctly within $3500.
+## Additional Notes
+- The **interactive instructional content** for the machine learning curriculum is still in development. For now, you can watch the video challenges included in the certification. 
+- You may need to **seek out additional learning resources** (e.g., tutorials, documentation) as you would in a real-world project.
 
-The final cell will also predict expenses using the test_dataset and graph the results.
+## Submission Instructions
 
+- Once you complete the project and pass the test (provided in the notebook), submit your project link.
+- If submitting a **Google Colaboratory** link, make sure that **link sharing is enabled** for "anyone with the link."
+
+Good luck, and happy coding!
