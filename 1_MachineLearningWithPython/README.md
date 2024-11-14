@@ -47,3 +47,9 @@ I’ve learned a ton about machine learning and its practical uses, especially f
 |                                               | [Linear Regression Health Costs Calculator](https://github.com/CllsPy/FreeCodeCamp/blob/main/1_MachineLearningWithPython/Projects/LinearRegressionHealthCoastsCalculator/linear_regression_health_costs_calculator.py)         | Completed             |
 |                                               | [Neural Network SMS Text Classifier](https://github.com/CllsPy/FreeCodeCamp/blob/main/1_MachineLearningWithPython/Projects/TextClassification/neural_network_sms_text_classifier.py)               | Completed             |
 
+
+## Acknowledgements
+
+I would like to express my sincere gratitude to the following individuals and resources:
+
+- [BenTheCoder](https://github.com/benthecoder/JohnHopkinsDataScience)
