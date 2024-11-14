@@ -14,8 +14,6 @@ You'll also dive into neural networks, and learn the principles behind how deep,
 
 ## Content
 
-Sure! Here’s the updated table with all completion statuses set to "Completed":
-
 | **Section**                                   | **Topic**                                        | **Completion Status** |
 |-----------------------------------------------|--------------------------------------------------|-----------------------|
 | **TensorFlow Fundamentals**                   | Introduction to TensorFlow                       | Completed             |
