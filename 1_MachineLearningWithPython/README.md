@@ -42,8 +42,8 @@ I’ve learned a ton about machine learning and its practical uses, especially f
 |                                               | Deep Learning Demystified                        | Completed             |
 |                                               | How Convolutional Neural Networks Work           | Completed             |
 | **Machine Learning Projects**                 | Rock Paper Scissors                               | Completed             |
-|                                               | Cat and Dog Image Classifier                      | Completed             |
-|                                               | Book Recommendation Engine using KNN              | Completed             |
-|                                               | Linear Regression Health Costs Calculator         | Completed             |
-|                                               | Neural Network SMS Text Classifier                | Completed             |
+|                                               | [Cat and Dog Image Classifier](https://github.com/CllsPy/FreeCodeCamp/blob/main/1_MachineLearningWithPython/Projects/CatDogClass/cat_and_dog_image_classifier.py)                      | Completed             |
+|                                               | [Book Recommendation Engine using KNN](https://github.com/CllsPy/FreeCodeCamp/tree/main/1_MachineLearningWithPython/Projects/BookRecEng)              | Completed             |
+|                                               | [Linear Regression Health Costs Calculator](https://github.com/CllsPy/FreeCodeCamp/blob/main/1_MachineLearningWithPython/Projects/LinearRegressionHealthCoastsCalculator/linear_regression_health_costs_calculator.py)         | Completed             |
+|                                               | [Neural Network SMS Text Classifier](https://github.com/CllsPy/FreeCodeCamp/blob/main/1_MachineLearningWithPython/Projects/TextClassification/neural_network_sms_text_classifier.py)               | Completed             |
 
