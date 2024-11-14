@@ -12,17 +12,48 @@ In the Machine Learning with Python Certification, you'll use the TensorFlow fra
 
 You'll also dive into neural networks, and learn the principles behind how deep, recurrent, and convolutional neural networks work.
 
-## Courses
+## Content
 
-### TensorFlow
-TensorFlow is an open source framework that makes machine learning and neural networking easier to use.
+Sure! Here’s the updated table with all completion statuses set to "Completed":
 
-The following video course was created by Tim Ruscica, also known as “Tech With Tim”. It will help you to understand TensorFlow and some of its powerful capabilities.
+| **Section**                                   | **Topic**                                        | **Completion Status** |
+|-----------------------------------------------|--------------------------------------------------|-----------------------|
+| **TensorFlow Fundamentals**                   | Introduction to TensorFlow                       | Completed             |
+|                                               | Core Learning Algorithms                         | Completed             |
+|                                               | Working with Data                                | Completed             |
+|                                               | Training and Testing Data                        | Completed             |
+|                                               | The Training Process                             | Completed             |
+|                                               | Classification                                    | Completed             |
+|                                               | Building the Model                               | Completed             |
+|                                               | Clustering                                       | Completed             |
+|                                               | Hidden Markov Models                             | Completed             |
+|                                               | Using Probabilities to Make Predictions          | Completed             |
+| **Neural Networks with TensorFlow**           | Neural Networks: Activation Functions            | Completed             |
+|                                               | Neural Networks: Optimizers                      | Completed             |
+|                                               | Neural Networks: Creating a Model                | Completed             |
+| **Convolutional Neural Networks (CNNs)**      | The Convolutional Layer                          | Completed             |
+|                                               | Creating a Convolutional Neural Network          | Completed             |
+|                                               | Evaluating the Model                             | Completed             |
+|                                               | Picking a Pretrained Model                       | Completed             |
+| **Natural Language Processing with RNNs**     | NLP with RNNs: Part 1                            | Completed             |
+|                                               | NLP with RNNs: Part 2                            | Completed             |
+|                                               | NLP with RNNs: Recurring Neural Networks (RNNs)  | Completed             |
+|                                               | NLP with RNNs: Sentiment Analysis                | Completed             |
+|                                               | NLP with RNNs: Making Predictions                | Completed             |
+|                                               | NLP with RNNs: Create a Play Generator           | Completed             |
+|                                               | NLP with RNNs: Building the Model                | Completed             |
+|                                               | NLP with RNNs: Training the Model                | Completed             |
+| **Reinforcement Learning**                    | Reinforcement Learning with Q-Learning: Part 1    | Completed             |
+|                                               | Reinforcement Learning with Q-Learning: Part 2    | Completed             |
+|                                               | Reinforcement Learning with Q-Learning: Example  | Completed             |
+| **How Neural Networks Work**                  | Introduction to Neural Networks                  | Completed             |
+|                                               | How Deep Neural Networks Work                    | Completed             |
+|                                               | Recurrent Neural Networks (RNN) & LSTM            | Completed             |
+|                                               | Deep Learning Demystified                        | Completed             |
+|                                               | How Convolutional Neural Networks Work           | Completed             |
+| **Machine Learning Projects**                 | Rock Paper Scissors                               | Completed             |
+|                                               | Cat and Dog Image Classifier                      | Completed             |
+|                                               | Book Recommendation Engine using KNN              | Completed             |
+|                                               | Linear Regression Health Costs Calculator         | Completed             |
+|                                               | Neural Network SMS Text Classifier                | Completed             |
 
-### How Neural Networks Work
-Neural networks are at the core of what we call artificial intelligence today. But historically they've been hard to understand. Especially for beginners in the machine learning field.
-
-Even if you are completely new to neural networks, these video courses by Brandon Rohrer will get you comfortable with the concepts and the math behind them.
-
-### Machine Learning with Python Projects
-Machine learning has many practical applications. By completing these free and challenging coding projects, you will demonstrate that you have a good foundational knowledge of machine learning, and qualify for your Machine Learning with Python certification.
