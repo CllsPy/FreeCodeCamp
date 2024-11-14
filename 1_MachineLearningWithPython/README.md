@@ -4,14 +4,6 @@
 ## What i've learnt
 I’ve learned a ton about machine learning and its practical uses, especially for projects or work. In the Machine Learning with Python Certification, I got hands-on experience using TensorFlow to build neural networks and apply advanced techniques like natural language processing (NLP) and reinforcement learning. It was great to explore how these techniques are used in real-world applications like chatbots and recommendation systems.
 
-## Machine Learning With Python Certification
-
-Machine learning has many practical applications that you can use in your projects or on the job.
-
-In the Machine Learning with Python Certification, you'll use the TensorFlow framework to build several neural networks and explore more advanced techniques like natural language processing and reinforcement learning.
-
-You'll also dive into neural networks, and learn the principles behind how deep, recurrent, and convolutional neural networks work.
-
 ## Content
 
 | **Section**                                   | **Topic**                                        | **Completion Status** |
