@@ -16,7 +16,6 @@ This README provides an overview of FreeCodeCamp, its features, and its credibil
 6. [How to Get Started](#how-to-get-started)
 7. [Community and Support](#community-and-support)
 8. [Contributing to FreeCodeCamp](#contributing-to-freecodecamp)
-9. [License](#license)
 
 ## What is FreeCodeCamp?
 
